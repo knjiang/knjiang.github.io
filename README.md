@@ -1,2 +1,1 @@
-# knjiang.github.io
-WIP new website 
+Dev Server Version of Static Site
