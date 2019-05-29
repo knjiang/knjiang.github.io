@@ -1,1 +1,0 @@
-Dev Server Version of Static Site
